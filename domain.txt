@@ -1,1 +1,1 @@
-https://www.yxxtion.com;https://www.yxxtion.com/api/mobile/user/contact/save
+https://www.yxxtion.com
